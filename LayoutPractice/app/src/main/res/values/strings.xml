@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="signIn">로그인</string>
+    <string name="getPassword">비밀번호 찾기</string>
+    <string name="signUp">회원가입</string>
+    <string name="phoneNumber">전화번호</string>
+    <string name="password">비밀번호</string>
+</resources>
